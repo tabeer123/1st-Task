@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 anum 
+=======
+my name iis tabeerss
+>>>>>>> e40b38a667e0df9b5da77717d75944714c365e7d
