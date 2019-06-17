@@ -1,2 +1,6 @@
 Hello Anum! 2nd task
+<<<<<<< HEAD
 Hello! i m doing 3rd task.
+=======
+3rd task done
+>>>>>>> 4d0066d53cdc6a313c2ab39728b6f758fa8e5d06
