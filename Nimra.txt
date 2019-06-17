@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 nnsfjsnak
 my name is nimra
+=======
+3rd task
+>>>>>>> 20e741c58a614745b40a5e820a50a198b18249de
